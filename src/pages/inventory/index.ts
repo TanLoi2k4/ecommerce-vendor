@@ -1,0 +1,1 @@
+export { InventoryPage } from './InventoryPage';
